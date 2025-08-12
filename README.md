@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/602190503.svg)](https://doi.org/10.5281/zenodo.16813370)
 
 # Snakemake Workflow for Chandra Data Reduction
 
